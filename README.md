@@ -19,7 +19,7 @@
 <!-- PROJECT DESCRIPTION -->
 # 📖 Hello rails back end <a name="about-project"></a>
 **Hello rails back end** Is a react app that fetches data from a custom api made through rails and then displays greetings from that api.
-To check the React view repo click [here](https://github.com/Vgonma/hello-react-front-end)
+To check the React view repo click [here](https://github.com/cilfonegabriel/hello-react-front-end)
 ## 🛠 Built With <a name="built-with"></a>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/documentation/">Ruby on Rails</a></li>
@@ -47,7 +47,7 @@ and follow these steps.
 Clone [this other](https://github.com/cilfonegabriel/hello-rails-back-end.git) repository to your desired folder:
 1. Download the **Zip** file or clone the repo with:
  ```bash
-git git@github.com:cilfonegabriel/hello-rails-back-end.git
+git git@github.com:cilfonegabriel/hello-react-front-end.git
 ```
 2. To access cloned directory run:
 ```bash
